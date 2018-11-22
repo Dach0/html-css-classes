@@ -1,0 +1,16 @@
+body{
+  font-size: 36px;
+}
+
+li:first-child{
+  color: red;
+}
+
+li:last-child{
+  color: blue;
+}
+
+.entodijete:nth-child(even){
+  color: orange;
+
+}

@@ -1,0 +1,26 @@
+html{
+  background-color: dodgerblue;
+}
+
+body{
+  background-color: lawngreen;
+  width: 60%;
+  border: 5px solid black;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+img{
+  display: block;
+  border: 20px groove orange;
+  border-radius: 100%;
+  margin: 0 auto;
+}
+
+.head1{
+  color: deepskyblue;
+}
+
+.head2{
+  color: orangered;
+}

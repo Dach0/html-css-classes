@@ -1,0 +1,13 @@
+*{
+  border: 2px dashed hotpink;
+}
+
+div{
+  height: 200px;
+}
+
+img{
+  display: block;
+  height: 300px;
+  margin: 0 auto;
+}

@@ -1,0 +1,13 @@
+div{
+  width: 400px;
+  height: 250px;
+  border: 40px dashed red;
+  margin: 20px auto;
+  background-image: url("../../../mapa.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.divnum2 {
+  box-sizing: border-box;
+}

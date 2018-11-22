@@ -1,0 +1,25 @@
+body{
+  font-size: 36px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+/* sve p-ove unutar diva nezavisno od toga da li u divu ima nekih drugih sekcija u kojima su p-ovi, i njih ce selektovati */
+div p {
+  color: red;
+}
+
+/* sve p-ove koji su samo u tom divu. Ako u divu ima neka podsekcija i p u toj podsekciji on nece biti selektovan */
+div>p {
+  color: green;
+}
+
+/* selektuje sve p nakon divova */
+div~p{
+  color: orange;
+}
+
+/* ovaj selektuje SAMO JEDAN poslije diva */
+div + p{
+  color: blue;
+}

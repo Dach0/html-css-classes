@@ -1,0 +1,16 @@
+/* hocu da startujem sa osme pozicije i da idem sa korakom 10
+li:nth-child(10n+8){
+  color: red;
+} */
+
+/*  hocu da startujem sa trece pozicije sa korakom 3
+
+  li:nth-child(3n+2){
+  color: red;
+}
+ */
+
+
+ li:nth-child(3n+9){
+   color: red;
+ }

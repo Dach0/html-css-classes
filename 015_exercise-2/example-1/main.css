@@ -1,0 +1,7 @@
+div{
+  width: 350px;
+  height: 400px;
+  background-color: magenta;
+  border-radius: 25%;
+  border: 20px groove;
+}

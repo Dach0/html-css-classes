@@ -1,0 +1,29 @@
+div {
+  width: 350px;
+  height: 400px;
+  background-color: magenta;
+  border: 20px groove;
+  margin: 0 auto;
+  text-align: center;
+}
+
+a {
+  display: block;
+  margin: 10px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited{
+  color: yellow;
+}
+
+a:hover{
+  color: red;
+}
+
+a:active{
+  color: brown;
+}

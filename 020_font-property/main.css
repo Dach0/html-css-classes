@@ -1,0 +1,13 @@
+h1{
+  font-family: 'Sedgwick Ave', cursive;
+  font-size: 1.5rem;
+  font-weight: bold;
+  /* font-variant: small-caps; */
+  text-transform: capitalize;
+  line-height: 2rem;
+  color: rgb(29, 161, 41);
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}

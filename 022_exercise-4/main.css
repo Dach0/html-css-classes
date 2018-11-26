@@ -1,0 +1,34 @@
+div{
+  width: 90%;
+  text-align: center;
+  border: 3px solid black;
+}
+
+.klasajedan
+{
+  font-family: 'Tangerine', cursive;
+  font-size: 3rem;
+  text-transform: capitalize;
+  /* word-spacing: 2rem; */
+  text-indent: 3rem;
+}
+
+.klasadva
+{
+  font-family: 'Merienda', cursive;
+  font-size: 3rem;
+  font-weight: 700;
+  font-style: italic;
+  /* letter-spacing: 1rem; */
+  text-decoration: line-through;
+}
+
+h1{
+  font-size: 3rem;
+  font-family: sans-serif;
+  text-shadow: 3px 3px 5px green;
+}
+
+a{
+  text-decoration: none;
+}

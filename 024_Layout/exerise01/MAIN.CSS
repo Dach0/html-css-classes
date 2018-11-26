@@ -1,0 +1,20 @@
+div {  display: inline-block;
+  border-radius: 30px;
+  border: 2px solid black;
+  width: 100px;
+  height: 50px;
+
+}
+
+.crveni{
+  background: red;
+}
+.plavi{
+  background: blue;
+}
+.zuti{
+  background: yellow;
+}
+.zeleni{
+  background: green;
+}
